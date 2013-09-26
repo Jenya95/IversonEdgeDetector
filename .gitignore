@@ -1,0 +1,6 @@
+*.sln
+*.cd
+*.csproj
+bin/
+obj/
+Properties/
